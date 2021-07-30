@@ -66,7 +66,7 @@
           "type": "button",
           "settings": {
             "button_label": "Button label",
-            "button_link": ""
+            "button_link": "shopify:\/\/collections\/new"
           }
         }
       },
@@ -76,6 +76,7 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/06_Pilgrim_21-3_Model_CLASSIC_JANA.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -93,18 +94,18 @@
             "image_padding": false
           }
         },
-        "16276784350d3dbbf2-1": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "secondary_background": false,
-            "second_image": false,
-            "image_padding": false
-          }
-        },
         "40a99a72-836d-4e9c-859e-74a9a37e16b8": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/05_Pilgrim_21-3_Model_CLASSIC_JANA.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "62116ee0-a4b0-45b9-b72f-68257367bc2b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/07_Pilgrim_21-3_Model_CLASSIC_JANA.jpg",
             "image_padding": false,
             "color_scheme": "background-1"
           }
@@ -112,11 +113,11 @@
       },
       "block_order": [
         "16276784350d3dbbf2-0",
-        "16276784350d3dbbf2-1",
-        "40a99a72-836d-4e9c-859e-74a9a37e16b8"
+        "40a99a72-836d-4e9c-859e-74a9a37e16b8",
+        "62116ee0-a4b0-45b9-b72f-68257367bc2b"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "",
         "desktop_layout": "left",
         "mobile_layout": "collage"
       }
