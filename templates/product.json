@@ -53,13 +53,6 @@
             "text_style": "body"
           }
         },
-        "25b99775-f057-4080-b79e-2ebab4722a7b": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.metafields.Attributes.Color.value }}",
-            "text_style": "body"
-          }
-        },
         "08994b83-e1dc-4d10-9ea5-8e1b6c25d865": {
           "type": "text",
           "settings": {
@@ -76,6 +69,15 @@
           "type": "share",
           "settings": {
           }
+        },
+        "9654ff2e-bcca-420c-844e-6a0fb26c8b6b": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Fast and free delivery",
+            "content": "<p>{{ product.metafields.Attributes.Serie.value }}<\/p>",
+            "page": "",
+            "icon": "return"
+          }
         }
       },
       "block_order": [
@@ -87,10 +89,10 @@
         "quantity_selector",
         "buy_buttons",
         "59678aa9-3f72-4d52-be9b-758eeb76bb57",
-        "25b99775-f057-4080-b79e-2ebab4722a7b",
         "08994b83-e1dc-4d10-9ea5-8e1b6c25d865",
         "description",
-        "share"
+        "share",
+        "9654ff2e-bcca-420c-844e-6a0fb26c8b6b"
       ],
       "settings": {
         "enable_sticky_info": true,
