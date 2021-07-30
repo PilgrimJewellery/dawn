@@ -59,13 +59,13 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p><br\/>New inspiration, undiscovered nature and the simple beauty - our new collection will bring you beaming energy, good vibes and can’t-live-without pieces!<\/p>"
           }
         },
         "button": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "New in",
             "button_link": "shopify:\/\/collections\/new"
           }
         }
