@@ -34,6 +34,13 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "d2bdfb7d-64b9-47f3-b23a-ca7e5e23bab8": {
+            "type": "text",
+            "settings": {
+              "heading": "Heading",
+              "subtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
+            }
+          },
           "footer-0": {
             "type": "link_list",
             "settings": {
@@ -47,11 +54,20 @@
               "heading": "Information",
               "menu": "footer-2"
             }
+          },
+          "f5d3848e-dbe6-4c00-8cde-b6ee91145f27": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Shop",
+              "menu": "main-menu"
+            }
           }
         },
         "block_order": [
+          "d2bdfb7d-64b9-47f3-b23a-ca7e5e23bab8",
           "footer-0",
-          "6f78027f-7de8-4a83-b2df-31081c06442a"
+          "6f78027f-7de8-4a83-b2df-31081c06442a",
+          "f5d3848e-dbe6-4c00-8cde-b6ee91145f27"
         ],
         "settings": {
           "color_scheme": "background-1",
