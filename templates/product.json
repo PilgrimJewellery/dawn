@@ -55,6 +55,13 @@
           "type": "share",
           "settings": {
           }
+        },
+        "08994b83-e1dc-4d10-9ea5-8e1b6c25d865": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.Attributes.Metal.value }}",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
@@ -66,7 +73,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "08994b83-e1dc-4d10-9ea5-8e1b6c25d865"
       ],
       "settings": {
         "enable_sticky_info": true,
