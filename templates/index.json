@@ -78,7 +78,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/06_Pilgrim_21-3_Model_CLASSIC_JANA.jpg",
         "height": "adapt",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "layout": "image_first"
       }
     },
