@@ -62,7 +62,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Fast and free delivery",
-            "content": "<p>{{ product.metafields.Attributes.Serie.value }}<\/p>",
+            "content": "<p><strong>Fast delivery<\/strong> - Only 1-5 business days<\/p><p><strong>Free delivery<\/strong> - above 40 EUR<\/p><p>{{ product.metafields.Attributes.Serie.value }}<\/p>",
             "page": "",
             "icon": "return"
           }
