@@ -33,12 +33,6 @@
         "adapt_height_first_image": true
       }
     },
-    "1627678603c110a4f1": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<span class=\"clerk\"\n  data-template=\"@search-product-slider\"\n  data-query=\"New\"\n><\/span>"
-      }
-    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -143,7 +137,6 @@
   },
   "order": [
     "image_banner",
-    "1627678603c110a4f1",
     "featured_products",
     "image_text",
     "16276784350d3dbbf2",
