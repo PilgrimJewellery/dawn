@@ -33,7 +33,7 @@
         "type": "header",
         "settings": {
           "logo": "shopify:\/\/shop_images\/Pilgrim_Black_cee7a803-5096-4f6a-8370-a9a0d6f71503.png",
-          "logo_width": 100,
+          "logo_width": 120,
           "logo_position": "middle-left",
           "menu": "main-menu",
           "show_line_separator": false,
