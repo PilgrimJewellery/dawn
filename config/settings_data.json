@@ -47,7 +47,7 @@
             "type": "text",
             "settings": {
               "heading": "PILGRIM",
-              "subtext": "<p>Customer service:<br\/><strong>Mon - Fri<\/strong> 09:00 - 15:00<\/p><p><a href=\"mailto:mail@pilgrim.dk\">mail@pilgrim.dk<\/a><\/p><p><\/p>"
+              "subtext": "<p>Customer service:<br\/><strong>Mon - Fri<\/strong> 09:00 - 15:00<\/p><p><a href=\"mailto:mail@pilgrim.dk\">mail@pilgrim.dk<\/a><\/p><p><a href=\"tel:+4563333333\" title=\"tel:+4563333333\">+45 63333333<\/a><\/p>"
             }
           },
           "f5d3848e-dbe6-4c00-8cde-b6ee91145f27": {
