@@ -1,5 +1,6 @@
 {
   "current": {
+    "social_facebook_link": "pilgrimjewellery",
     "currency_code_enabled": true,
     "sections": {
       "announcement-bar": {
@@ -70,7 +71,7 @@
           "6f78027f-7de8-4a83-b2df-31081c06442a"
         ],
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "background-2",
           "newsletter_enable": true,
           "newsletter_heading": "Sign up to our emails",
           "show_social": true,
