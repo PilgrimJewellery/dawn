@@ -71,6 +71,13 @@
           "type": "share",
           "settings": {
           }
+        },
+        "d85d5afd-bcc4-49d8-bc0d-6e11b9b07aaf": {
+          "type": "popup",
+          "settings": {
+            "link_label": "Size guide",
+            "page": "club-pilgrim"
+          }
         }
       },
       "block_order": [
@@ -84,7 +91,8 @@
         "4ae78eb7-5626-433e-9a3e-7bd1dd437fe2",
         "description",
         "9654ff2e-bcca-420c-844e-6a0fb26c8b6b",
-        "share"
+        "share",
+        "d85d5afd-bcc4-49d8-bc0d-6e11b9b07aaf"
       ],
       "settings": {
         "enable_sticky_info": true,
