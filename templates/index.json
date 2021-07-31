@@ -30,7 +30,7 @@
         "desktop_text_box_position": "flex-end",
         "color_scheme": "accent-1",
         "stack_images_on_mobile": true,
-        "adapt_height_first_image": false
+        "adapt_height_first_image": true
       }
     },
     "featured_products": {
@@ -88,7 +88,7 @@
         "16276784350d3dbbf2-0": {
           "type": "video",
           "settings": {
-            "cover_image": "shopify:\/\/shop_images\/04_Pilgrim_21-3_Model_CLASSIC_JANA.jpg",
+            "cover_image": "shopify:\/\/shop_images\/031_Pilgrim_2021_4_Model_SEASONAL_FAV_RESTORATION.jpg",
             "video_url": "https:\/\/www.youtube.com\/watch?v=m96xOIpb44o",
             "description": "Describe the video for customers using screen readers",
             "image_padding": false
@@ -97,7 +97,7 @@
         "40a99a72-836d-4e9c-859e-74a9a37e16b8": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/05_Pilgrim_21-3_Model_CLASSIC_JANA.jpg",
+            "image": "shopify:\/\/shop_images\/032_Pilgrim_2021_4_Model_SEASONAL_FAV_RESTORATION.jpg",
             "image_padding": false,
             "color_scheme": "background-1"
           }
@@ -105,7 +105,7 @@
         "62116ee0-a4b0-45b9-b72f-68257367bc2b": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/07_Pilgrim_21-3_Model_CLASSIC_JANA.jpg",
+            "image": "shopify:\/\/shop_images\/026_Pilgrim_2021_4_Model_SEASONAL_FAV_RESTORATION.jpg",
             "image_padding": false,
             "color_scheme": "background-1"
           }
