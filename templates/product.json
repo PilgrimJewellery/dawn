@@ -46,13 +46,6 @@
             "show_dynamic_checkout": false
           }
         },
-        "59678aa9-3f72-4d52-be9b-758eeb76bb57": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.metafields.Attributes.Serie.value }}",
-            "text_style": "body"
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -62,7 +55,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Fast and free delivery",
-            "content": "<p><strong>Fast delivery<\/strong> - Only 1-5 business days<\/p><p><strong>Free delivery<\/strong> - above 40 EUR<\/p><p>{{ product.metafields.Attributes.Serie.value }}<\/p>",
+            "content": "<p><strong>Fast delivery<\/strong> - Only 1-5 business days<\/p><p><strong>Free delivery<\/strong> - above 40 EUR<\/p>",
             "page": "",
             "icon": "return"
           }
@@ -81,7 +74,6 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "59678aa9-3f72-4d52-be9b-758eeb76bb57",
         "description",
         "9654ff2e-bcca-420c-844e-6a0fb26c8b6b",
         "share"
