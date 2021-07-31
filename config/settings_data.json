@@ -10,7 +10,13 @@
     "social_pinterest_link": "pilgrimjewellery",
     "social_instagram_link": "pilgrimjewellery",
     "social_youtube_link": "pilgrim",
+    "favicon": "shopify:\/\/shop_images\/Favicon_a130d615-e2ef-4de1-be4b-e2c9ab4627aa.png",
     "currency_code_enabled": true,
+    "checkout_logo_image": "shopify:\/\/shop_images\/Pilgrim_Black_cee7a803-5096-4f6a-8370-a9a0d6f71503.png",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "small",
+    "checkout_accent_color": "#bc8465",
+    "checkout_button_color": "#bc8465",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
