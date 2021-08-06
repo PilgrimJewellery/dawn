@@ -2115,5 +2115,5 @@ details-disclosure > details {
 
   
 .ui-admin-bar, .ui-admin-bar__body {
-    display: none;
+    display: none !important;
 }
