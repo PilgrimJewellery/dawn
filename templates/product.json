@@ -95,7 +95,7 @@
         "share"
       ],
       "settings": {
-        "enable_sticky_info": true,
+        "enable_sticky_info": false,
         "enable_video_looping": true
       }
     },
@@ -106,6 +106,7 @@
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "add_image_padding": false,
+        "show_image_outline": true,
         "show_vendor": false
       }
     }
