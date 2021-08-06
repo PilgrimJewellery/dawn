@@ -2114,4 +2114,6 @@ details-disclosure > details {
 }
 
   
-.ui-admin-bar {display:none!important;}
+.ui-admin-bar, .ui-admin-bar__body {
+    display: none;
+}
