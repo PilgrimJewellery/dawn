@@ -2112,3 +2112,6 @@ details-disclosure > details {
   color: rgb(var(--color-foreground));
   word-break: break-word;
 }
+
+  
+#preview-bar-iframe{display:none!important;}
