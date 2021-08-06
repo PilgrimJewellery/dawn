@@ -8,5 +8,11 @@
     grid-template-columns: 1fr 1fr;
   }
 
-
+  .blog-articles > *:first-child,
+  .blog-articles > *:nth-child(4),
+  .blog-articles > *:last-child:nth-child(2),
+  .blog-articles > *:last-child:nth-child(5) {
+    grid-column: span 2;
+    text-align: center;
+  }
 }
