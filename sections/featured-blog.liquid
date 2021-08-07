@@ -40,7 +40,7 @@
           {%- endfor -%}
         </ul>
         {%- if posts_exceed_limit -%}
-          <div class="slider-buttons no-js-hidden">
+          <div class="slider-buttons no-js-hidden{% if section.settings.post_limit < 3 %} medium-hide{% endif %}{% if section.settings.post_limit < 2 %} small-hide{% endif %}">
             <div class="slider-counter caption">
               <span class="slider-counter--current">1</span>
               <span aria-hidden="true"> / </span>
