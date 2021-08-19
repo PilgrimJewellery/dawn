@@ -170,10 +170,10 @@
   },
   "order": [
     "image_banner",
+    "rich_text",
     "featured_products",
-    "image_text",
-    "16276784350d3dbbf2",
-    "1627678562752185ea",
-    "162937358972367e62"
+    "collage",
+    "video",
+    "multi_column"
   ]
 }
