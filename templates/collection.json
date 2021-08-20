@@ -7,41 +7,6 @@
         "show_collection_image": false
       }
     },
-    "1629461296a8fa68fa": {
-      "type": "rich-text",
-      "blocks": {
-        "1629461296a8fa68fa-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Text above collection",
-            "heading_size": "h1"
-          }
-        },
-        "1629461296a8fa68fa-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "1629461296a8fa68fa-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "1629461296a8fa68fa-0",
-        "1629461296a8fa68fa-1",
-        "1629461296a8fa68fa-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -55,47 +20,10 @@
         "enable_sorting": true,
         "collapse_on_larger_devices": false
       }
-    },
-    "16294613284d75bd78": {
-      "type": "rich-text",
-      "blocks": {
-        "16294613284d75bd78-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Text below collection",
-            "heading_size": "h1"
-          }
-        },
-        "16294613284d75bd78-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "16294613284d75bd78-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "16294613284d75bd78-0",
-        "16294613284d75bd78-1",
-        "16294613284d75bd78-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
     }
   },
   "order": [
     "banner",
-    "1629461296a8fa68fa",
-    "product-grid",
-    "16294613284d75bd78"
+    "product-grid"
   ]
 }
