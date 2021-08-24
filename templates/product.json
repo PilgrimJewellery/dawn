@@ -61,7 +61,7 @@
         "d85d5afd-bcc4-49d8-bc0d-6e11b9b07aaf": {
           "type": "popup",
           "settings": {
-            "link_label": "Size guide",
+            "text": "Pop-up link text",
             "page": "club-pilgrim"
           }
         },
@@ -77,6 +77,7 @@
         "share": {
           "type": "share",
           "settings": {
+            "share_label": "Share"
           }
         }
       },
@@ -95,7 +96,8 @@
         "share"
       ],
       "settings": {
-        "enable_sticky_info": false,
+        "enable_sticky_info": true,
+        "hide_variants": false,
         "enable_video_looping": true
       }
     },
